@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/ase.css">
+<link href='http://fonts.googleapis.com/css?family=Slackey' rel='stylesheet' type='text/css'><!--29px-->
+<link href='http://fonts.googleapis.com/css?family=Bentham' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+<title>Advanced Services Engineering</title>
+</head>
+
+<body>
+<div id="main">
+	<div id="container">
+<h1> Advanced Services Engineering</h1>
+		<div id="navbox">
+			<ul>  
+				<li><a href="index.html">Overview</a></li>
+				<li><a href="syllabus.html">Syllabus</a></li>
+				<li><a
+		href="lecturenotes.html">Lecture Notes</a></li>	
+              <li><a href="exams.html">Assignments, Projects and Exams</a></li>
+				<li><a href="reading.html">Reading</a></li>	
+			</ul>
+		</div>
+		<div class="content">
+<h1>Overview</h1>
+This course is for Summer Semester 2015. For registration, please use
+	  the TISS site. The course in this semester will accept
+	  only 20 students maximum.
+<h2>Course Information</h2>
+<p>
+
+<ul>
+
+<li>Instructor: <a href="http://dsg.tuwien.ac.at/staff/truong/">Hong-Linh Truong</a></li>
+<li>TISS Course Number: <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?windowId=320&courseNr=184742">184.742</a></li>
+<li>Level: Elective course for Master degree in Informatics and
+	      Business Informatics and PhD students in <a href="http://www.big.tuwien.ac.at/adaptive">Doctoral College "Adaptive Distributed Systems"</a> </li>
+
+</ul>
+</p>
+			<h2>Course Description</h2>
+			<p>
+The objective of this course is to introduce new concepts and techniques for developing and engineering advanced services in emerging distributed computing systems including software-based and human-based services.  In this course, we will introduce concepts of data-as-a-service, data concerns, data market places and techniques for developing data intensive services by utlizing data services with compute services in cloud environments.  Furthermore, we will investigate human-based services in engineering advanced data analytics and how to combine them with data and compute services.
+
+The course will provide hand-on experiences via real-world exercises and mini programming projects. The course will be held in blocks and provide a great interaction between students and the instructor.
+
+</p> 
+
+
+		</div>
+	</div>
+		</div>
+
+</div>
+<div id="footer">
+<p>
+<!-- hhmts start -->
+Last modified: Fri Feb 28 21:47:23 CET 2014
+<!-- hhmts end -->
+</p>
+</div>
+</body>
+</html>
